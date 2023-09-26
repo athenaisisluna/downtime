@@ -25,4 +25,5 @@ See [USAGE.md](/USAGE.md) for more informations.
 ![Downtime repository](/status/github.com-lowlighter-downtime-443.svg)
 ![Google DNS](/status/8.8.8.8-53.svg)
 ![Unavailable website](/status/unavailable.website.com-443.svg)
+![Sodexo3](/status/sodexo3.baplicada.cl-443.svg)
 <!-- <downtime-status/> -->
