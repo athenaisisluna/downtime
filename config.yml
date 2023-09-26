@@ -10,13 +10,13 @@ hosts:
   - name: github.com/lowlighter/downtime
     title: Downtime repository
   # Example / test ip with port using ncat
-  - name: "8.8.8.8"
-    title: Google DNS
-    port: 53
-    use: ncat
+  #- name: "8.8.8.8"
+  #  title: Google DNS
+  #  port: 53
+  #  use: ncat
   # Example / unavailable website
-  - name: unavailable.website.com
-    title: Unavailable website
+  #- name: unavailable.website.com
+  #  title: Unavailable website
   - name: https://sodexo3.baplicada.cl
     title: Sodexo3
     use: curl
