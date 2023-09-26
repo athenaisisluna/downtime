@@ -25,7 +25,7 @@ hosts:
     use: curl
   - name: https://sodexojustice.baplicada.cl
     title: SodexoJusticia
-    use: ncat
+    use: curl
 
 # Site configuration
 site:
