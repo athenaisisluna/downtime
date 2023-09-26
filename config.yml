@@ -17,6 +17,8 @@ hosts:
   # Example / unavailable website
   - name: unavailable.website.com
     title: Unavailable website
+  - name: sodexo3.baplicada.cl
+    title: Sodexo3
 
 # Site configuration
 site:
