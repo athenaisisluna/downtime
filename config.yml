@@ -38,6 +38,12 @@ hosts:
   - name: https://asistencia.baplicada.cl
     title: Asistencia
     use: curl
+  - name: https://sodexogw.baplicada.cl/
+    title: Push Sodexo
+    use: curl
+  - name: https://sodexogw2.baplicada.cl/
+    title: Push Sodexo FaceCheck
+    use: curl
 
 # Site configuration
 site:
