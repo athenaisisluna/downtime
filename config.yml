@@ -19,6 +19,8 @@ hosts:
     title: Unavailable website
   - name: sodexo3.baplicada.cl
     title: Sodexo3
+  - name: https://sodexo.baplicada.cl/PBIS/Biometria/Servicio/ServicioSodexoAsistencia
+    title: PowerBI Sodexo
 
 # Site configuration
 site:
