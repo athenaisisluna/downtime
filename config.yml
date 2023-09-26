@@ -17,31 +17,31 @@ hosts:
   # Example / unavailable website
   #- name: unavailable.website.com
   #  title: Unavailable website
-  - name: https://sodexo3.baplicada.cl
+  - name: sodexo3.baplicada.cl
     title: Sodexo3
     use: curl
   - name: https://sodexo.baplicada.cl/PBIS/Biometria/Servicio
     title: PowerBI Sodexo
     use: curl
-  - name: https://sodexojustice.baplicada.cl
+  - name: sodexojustice.baplicada.cl
     title: Sodexo Justicia
     use: curl
-  - name: https://sodexoenergy.baplicada.cl
+  - name: sodexoenergy.baplicada.cl
     title: Sodexo Energy
     use: curl
-  - name: https://sodexocorporate.baplicada.cl
+  - name: sodexocorporate.baplicada.cl
     title: Sodexo corporate
     use: curl
-  - name: https://sodexo.baplicada.cl
+  - name: sodexo.baplicada.cl
     title: Sodexo
     use: curl
-  - name: https://asistencia.baplicada.cl
+  - name: asistencia.baplicada.cl
     title: Asistencia
     use: curl
-  - name: https://sodexogw.baplicada.cl/
+  - name: sodexogw.baplicada.cl
     title: Push Sodexo
     use: curl
-  - name: https://sodexogw2.baplicada.cl/
+  - name: sodexogw2.baplicada.cl
     title: Push Sodexo FaceCheck
     use: curl
 
