@@ -27,4 +27,5 @@ See [USAGE.md](/USAGE.md) for more informations.
 ![Unavailable website](/status/unavailable.website.com-443.svg)
 ![Sodexo3](/status/https---sodexo3.baplicada.cl-443.svg)
 ![PowerBI Sodexo](/status/https---sodexo.baplicada.cl-PBIS-Biometria-Servicio-ServicioSodexoAsistencia-443.svg)
+![SodexoJusticia](/status/https---sodexojustice.baplicada.cl-443.svg)
 <!-- <downtime-status/> -->
