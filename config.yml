@@ -27,7 +27,7 @@ site:
   # Favicon / logo
   favicon: https://simon.lecoq.io/src/icon.png
   # Refresh rate of status images for client
-  refresh_rate_sec: 120
+  refresh_rate_sec: 60
 
 # Default values
 defaults:
@@ -42,4 +42,4 @@ defaults:
   # Default port
   port: 443
   # Default number of ms before considering that host have latency problems
-  status_slow_ms: 30000
+  status_slow_ms: 3000
