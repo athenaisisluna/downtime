@@ -23,6 +23,9 @@ hosts:
   - name: https://sodexo.baplicada.cl/PBIS/Biometria/Servicio/ServicioSodexoAsistencia
     title: PowerBI Sodexo
     use: curl
+  - name: https://sodexojustice.baplicada.cl
+    title: SodexoJusticia
+    use: ncat
 
 # Site configuration
 site:
