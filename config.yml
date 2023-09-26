@@ -20,10 +20,10 @@ hosts:
   - name: sodexo3.baplicada.cl
     title: Sodexo3
     use: curl
-  - name: https://sodexo.baplicada.cl/PBIS/Biometria/Servicio
+  - name: sodexo.baplicada.cl/PBIS/Biometria/Servicio
     title: PowerBI Sodexo
     use: curl
-  - name: sodexojustice.baplicada.cl
+  - name: https://sodexojustice.baplicada.cl
     title: Sodexo Justicia
     use: curl
   - name: sodexoenergy.baplicada.cl
