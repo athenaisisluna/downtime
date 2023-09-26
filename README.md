@@ -30,4 +30,6 @@ See [USAGE.md](/USAGE.md) for more informations.
 ![Sodexo corporate](/status/https---sodexocorporate.baplicada.cl-443.svg)
 ![Sodexo](/status/https---sodexo.baplicada.cl-443.svg)
 ![Asistencia](/status/https---asistencia.baplicada.cl-443.svg)
+![Push Sodexo](/status/https---sodexogw.baplicada.cl--443.svg)
+![Push Sodexo FaceCheck](/status/https---sodexogw2.baplicada.cl--443.svg)
 <!-- <downtime-status/> -->
