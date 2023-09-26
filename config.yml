@@ -24,7 +24,19 @@ hosts:
     title: PowerBI Sodexo
     use: curl
   - name: https://sodexojustice.baplicada.cl
-    title: SodexoJusticia
+    title: Sodexo Justicia
+    use: curl
+  - name: https://sodexoenergy.baplicada.cl
+    title: Sodexo Energy
+    use: curl
+  - name: https://sodexocorporate.baplicada.cl
+    title: Sodexo corporate
+    use: curl
+  - name: https://sodexo.baplicada.cl
+    title: Sodexo
+    use: curl
+  - name: https://asistencia.baplicada.cl
+    title: Asistencia
     use: curl
 
 # Site configuration
