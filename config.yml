@@ -21,6 +21,7 @@ hosts:
     title: Sodexo3
   - name: https://sodexo.baplicada.cl/PBIS/Biometria/Servicio/ServicioSodexoAsistencia
     title: PowerBI Sodexo
+    use: curl
 
 # Site configuration
 site:
