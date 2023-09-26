@@ -17,8 +17,9 @@ hosts:
   # Example / unavailable website
   - name: unavailable.website.com
     title: Unavailable website
-  - name: sodexo3.baplicada.cl
+  - name: https://sodexo3.baplicada.cl
     title: Sodexo3
+    use: curl
   - name: https://sodexo.baplicada.cl/PBIS/Biometria/Servicio/ServicioSodexoAsistencia
     title: PowerBI Sodexo
     use: curl
