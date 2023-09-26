@@ -23,8 +23,6 @@ See [USAGE.md](/USAGE.md) for more informations.
 <!-- <downtime-status> -->
 ![Google](/status/google.com-443.svg)
 ![Downtime repository](/status/github.com-lowlighter-downtime-443.svg)
-![Google DNS](/status/8.8.8.8-53.svg)
-![Unavailable website](/status/unavailable.website.com-443.svg)
 ![Sodexo3](/status/https---sodexo3.baplicada.cl-443.svg)
 ![PowerBI Sodexo](/status/https---sodexo.baplicada.cl-PBIS-Biometria-Servicio-443.svg)
 ![Sodexo Justicia](/status/https---sodexojustice.baplicada.cl-443.svg)
